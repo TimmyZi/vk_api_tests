@@ -1,0 +1,6 @@
+{
+  "testUserLogin": "enter login",
+  "testUserPassword": "enter password",
+  "testUserApiToken": "enter api token",
+  "testUserOwnerId": "enter numeric user id"
+}
